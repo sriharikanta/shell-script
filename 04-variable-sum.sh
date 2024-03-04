@@ -1,0 +1,8 @@
+#!/bin/bash
+VAR1=$1
+VAR2=$2
+#I NEED THE TWO VAR SUM
+
+VAR3=$((VAR1+VAR2))
+
+echo "SUM OF THE TWO NUMBERS IS =$VAR3"
